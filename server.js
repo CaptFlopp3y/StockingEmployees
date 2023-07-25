@@ -1,7 +1,6 @@
 const connection = require('./connection.js');
 const { prompt } = require('inquirer');
 const db = require('./db/index.js');
-const cTable = require('console.table');
 
 questions()
 function questions() {

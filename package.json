@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/CaptFlopp3y/StockingEmployees#readme",
   "dependencies": {
-    "inquirer": "^9.2.8",
+    "inquirer": "^8.0.0",
     "mysql2": "^3.5.2"
   }
 }
