@@ -1,0 +1,25 @@
+{
+  "name": "stockingemployees",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaptFlopp3y/StockingEmployees.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaptFlopp3y/StockingEmployees/issues"
+  },
+  "homepage": "https://github.com/CaptFlopp3y/StockingEmployees#readme",
+  "dependencies": {
+    "inquirer": "^9.2.8",
+    "mysql2": "^3.5.2"
+  }
+}
